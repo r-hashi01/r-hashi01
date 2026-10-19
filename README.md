@@ -18,18 +18,8 @@ const ryusei = {
 
 ## Stack
 
-<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-000000?style=flat-square&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Astro-000000?style=flat-square&logo=astro&logoColor=white" />
-<img src="https://img.shields.io/badge/Tauri-000000?style=flat-square&logo=tauri&logoColor=white" />
-<img src="https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white" />
-<img src="https://img.shields.io/badge/WebAssembly-000000?style=flat-square&logo=webassembly&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloudflare-000000?style=flat-square&logo=cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Dify-0033FF?style=flat-square" />
+<img src="https://skillicons.dev/icons?i=ts,react,astro,bun,nodejs,rust,tauri,go,python&theme=dark" alt="languages" /><br/>
+<img src="https://skillicons.dev/icons?i=cloudflare,vercel,githubactions,git,vscode&theme=dark" alt="infra" />
 
 ## Projects
 
