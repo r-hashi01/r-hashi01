@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400" role="img" aria-label="Ryusei Hashimoto — Small tools that make AI actually usable.">
+  <style>
+    text { font-family: 'Söhne', Inter, 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    .lbl  { font-size: 14px; letter-spacing: 1.1px; fill: #FFFFFF; fill-opacity: .55; }
+    .hero { font-size: 68px; font-weight: 600; letter-spacing: -0.68px; fill: #FFFFFF; }
+    .fn   { font-size: 15px; fill: #FFFFFF; fill-opacity: .45; }
+  </style>
+  <rect width="1280" height="400" fill="#0033FF"/>
+  <text class="lbl" x="64" y="76">RYUSEI HASHIMOTO</text>
+  <text class="lbl" x="1216" y="76" text-anchor="end">TOKYO · LANGGENIUS / DIFY</text>
+  <text class="hero" x="60" y="216">Small tools that make</text>
+  <text class="hero" x="60" y="294">AI actually usable.</text>
+  <rect x="64" y="328" width="1152" height="1" fill="#FFFFFF" fill-opacity=".25"/>
+  <text class="fn" x="64" y="362">github.com/r-hashi01</text>
+  <text class="fn" x="1216" y="362" text-anchor="end">TypeScript · Rust · Go · Python</text>
+</svg>
